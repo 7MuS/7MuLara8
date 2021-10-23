@@ -24,7 +24,7 @@ Pertama fork dulu repository ini.
 
 Kemudian clone repository dengan menggunakan
 ```bash
-git clone https://github.com/EmptyWork/7MuLara8.git 
+git clone https://github.com/kuzunagi/7MuLara8.git 
 ```
 
 Setelah itu pindah ke direktori 
