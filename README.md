@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## Tabel Konten
 
 - [Tentang](#tentang)
