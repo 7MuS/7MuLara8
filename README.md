@@ -7,7 +7,9 @@
 <br/>
 <br/>
 
+[![CodeQL](https://github.com/kuzunagi/7MuLara8/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/kuzunagi/7MuLara8/actions/workflows/codeql-analysis.yml)
 ![Laravel](https://github.com/EmptyWork/7MuLara8/actions/workflows/laravel.yml/badge.svg)
+[![DevSkim](https://github.com/kuzunagi/7MuLara8/actions/workflows/devskim-analysis.yml/badge.svg)](https://github.com/kuzunagi/7MuLara8/actions/workflows/devskim-analysis.yml)
 
 </div>
 
